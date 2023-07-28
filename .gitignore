@@ -1,0 +1,4 @@
+# created by virtualenv automatically
+animals/__pycache__/
+fauna/__pycache__/
+fauna/migrations/__pycache__/
